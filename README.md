@@ -28,7 +28,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1800_av-p.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbIdMsw.png" group-title="ITALIA",Globus TV Sicilia
 https://flash2.xdevel.com/globusradiocam/globusradiocam/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFPpG7X.png" group-title="ITALIA",La TR3 Marsala
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFPpG7X.png" group-title="ITALIA",La TR3 Marsala  
 https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="ITALIA",ReggioTV
