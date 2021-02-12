@@ -58,6 +58,9 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
 https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cinemabreve.org/portal/sites/default/files/logo_1_1.png" group-title="ITALIA",TSN Sondrio
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="ITALIA",Radio 51 Lombardia
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 
@@ -160,6 +163,9 @@ http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJxfROF.png" group-title="ITALIA",Super TV Oristano
 http://193.70.81.40:1935/supertvoristano/_definst_/supertvoristano/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XymK2PR.png" group-title="ITALIA",Tele Abruzzo
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elkcKum.png" group-title="ITALIA",Teleblu Foggia
 https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8?fluxustv.m3u8
 
@@ -171,6 +177,9 @@ http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VDiISqA.png" group-title="ITALIA",TeleMia Calabria
 http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tb6t1iM.png" group-title="ITALIA",Tele Lazio Nord
+http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Woq6TJo.png" group-title="ITALIA",TeleNordest Friuli
 https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8?fluxustv.m3u8
