@@ -7,6 +7,9 @@ https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index
 #EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="ITALIA" tvg-name="Rai News 24 Italia",Rai News 24 Italia IT
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ITALIA",EURONEWS italia
+https://www.youtube.com/watch?v=pnaF6XIU-yQ 
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/La5mediaset/picture?width=200&height=200" group-title="ITALIA" tvg-name="La5 Italia",La5 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 
