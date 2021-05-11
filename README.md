@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="139660" tvg-name="RAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="00 - Argentina", RAI TV
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="ITALIA",RAI
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774
 
