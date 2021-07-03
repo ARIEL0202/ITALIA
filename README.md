@@ -1,11 +1,18 @@
 #EXTINF:-1 tvg-logo="" group-title="ITALIA",EURONEWS italia
 https://www.youtube.com/watch?v=pnaF6XIU-yQ 
 
+
+#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Rai News 24 Italia",Rai News 24 Italia IT
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dmaxitalia/picture?width=200&height=200" group-title="ITALIA" tvg-name="DMAX Discovery Italia",DMAX Discovery Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/realtimeitalia/picture?width=200&height=200" group-title="ITALIA" tvg-name="Real Time Italia",Real Time Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/motortrendIT/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="MotorTrend Italia",MotorTrend Italia IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOJMD0u.png" group-title="ITALIA",Spike 
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1800_av-p.m3u8
@@ -195,3 +202,14 @@ https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CM1bQ1I.png" group-title="ITALIA",TV7 Benevento
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CXbb7ai.jpg" group-title="Canales Italianos", TV2000 | SD
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HvnC5Ot.png" group-title="Canales Italianos", Studio 100 TV | SD
+http://wms.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8
+
+#EXTINF:-1 group-title="Without category",MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
