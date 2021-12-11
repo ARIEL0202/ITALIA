@@ -254,126 +254,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc
 #EXTINF:-1 tvg-id="612375086abc84000738fc03" tvg-chno="415" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG.png" group-title="Intrattenimento",Pluto TV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,Radio Sportiva
-https://mediahit.inmystream.it:9000/stream
-#EXTINF:-1,RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
-#EXTINF:-1,Radio Freccia
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
-#EXTINF:-1,Radio Zeta
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Best
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Bro&Sis
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Guardia Costiera
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S74387724/i1n4kZcs4Ah8/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Romeo&Juliet
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Napulè
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Doc
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 News
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_audio.m3u8
-#EXTINF:-1,Virgin Radio
-https://icy.unitedradio.it/Virgin.mp3
-#EXTINF:-1,[Web] Virgin Radio Classic Rock
-https://icy.unitedradio.it/VirginRockClassics.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock Hits
-https://icy.unitedradio.it/VirginRockHits.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock Ballads
-https://icy.unitedradio.it/Virgin_06.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock '70
-https://icy.unitedradio.it/VirginRock70.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock '80
-https://icy.unitedradio.it/VirginRock80.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock '90
-https://icy.unitedradio.it/Virgin_03.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock 2K
-https://icy.unitedradio.it/Virgin_02.mp3
-#EXTINF:-1,[Web] Virgin Radio Hard Rock
-https://icy.unitedradio.it/VirginHardRock.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock Party
-https://icy.unitedradio.it/VirginRockParty.mp3
-#EXTINF:-1,[Web] Virgin Radio Alternative Rock
-https://icy.unitedradio.it/VirginRockAlternative.mp3
-#EXTINF:-1,[Web] Rockstar: AC/DC
-https://icy.unitedradio.it/um1026.mp3
-#EXTINF:-1,[Web] Rockstar: Guns N'Roses
-https://icy.unitedradio.it/um1029.mp3
-#EXTINF:-1,[Web] Rockstar: Rolling Stones
-https://icy.unitedradio.it/VirginSpecialEvent.mp3
-#EXTINF:-1,[Web] Rockstar: Pink Floyd
-https://icy.unitedradio.it/VirginRogerWaters.mp3
-#EXTINF:-1,[Web] Rockstar: Queen
-https://icecast.unitedradio.it/Virgin_05.mp3
-#EXTINF:-1,[Web] Rockstar: Aerosmith
-https://icy.unitedradio.it/um1028.mp3
-#EXTINF:-1,[Web] Rockstar: Bon Jovi
-https://icy.unitedradio.it/um1027.mp3
-#EXTINF:-1,[Web] Rockstar: Oasis
-https://icy.unitedradio.it/um1030.mp3
-
-#EXTINF:-1,Radio Italia
-https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8
-
-#EXTINF:-1,Radio Capital
-https://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8
-#EXTINF:-1,[Web] Radio Capital Music
-https://capital-wr-01-lh.akamaized.net/i/WebRadio1_1@14078/master.m3u8
-#EXTINF:-1,[Web] Radio Capital Classic Rock
-https://capital-wr-02-lh.akamaized.net/i/WebRadio2_1@117624/master.m3u8
-#EXTINF:-1,[DAB] Radio Capital Funky Town
-https://capital-wr-03-lh.akamaized.net/i/WebRadio3_1@13883/master.m3u8
-#EXTINF:-1,[Web] Radio Capital W L'Italia
-https://capital-wr-04-lh.akamaized.net/i/WebRadio4_1@17010/master.m3u8
-#EXTINF:-1,[Web] Radio Capital Soft
-https://capital-wr-05-lh.akamaized.net/i/WebRadio5_1@14550/master.m3u8
-#EXTINF:-1,Radio Deejay
-https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
-#EXTINF:-1,[DAB] Deejay 30 Songs
-https://deejay-wr-06-lh.akamaized.net/i/WebRadio6_1@315983/master.m3u8
-#EXTINF:-1,[Web] Deejay 80
-https://deejay-wr-01-lh.akamaized.net/i/WebRadio1_1@315977/master.m3u8
-#EXTINF:-1,[Web] Deejay Time
-https://deejay-wr-02-lh.akamaized.net/i/WebRadio2_1@315978/master.m3u8
-#EXTINF:-1,[Web] Deejay Tropical Pizza
-https://deejay-wr-03-lh.akamaized.net/i/WebRadio3_1@315979/master.m3u8
-#EXTINF:-1,[Web] Deejay One Two One Two
-https://deejay-wr-04-lh.akamaized.net/i/WebRadio4_1@315980/master.m3u8
-#EXTINF:-1,[Web] Deejay WFM
-https://deejay-wr-05-lh.akamaized.net/i/WebRadio5_1@315981/master.m3u8
-#EXTINF:-1,[Web] Deejay Suona Italia
-https://deejay-wr-07-lh.akamaized.net/i/WebRadio7_1@315984/master.m3u8
-#EXTINF:-1,[Web] Deejay Gasolina
-https://deejay-wr-08-lh.akamaized.net/i/WebRadio8_1@315985/master.m3u8
-#EXTINF:-1,[Web] Deejay On The Road
-https://deejay-wr-09-lh.akamaized.net/i/WebRadio9_1@315986/master.m3u8
-#EXTINF:-1,[Web] Deejay One Love
-https://deejay-wr-10-lh.akamaized.net/i/WebRadio10_1@315987/master.m3u8
-#EXTINF:-1,Radio 105
-https://icy.unitedradio.it/Radio105.mp3
-#EXTINF:-1,Radio Subasio
-https://icy.unitedradio.it/Subasio.mp3
-#EXTINF:-1,[Web] Radio Subasio +
-https://icy.unitedradio.it/SubasioPiu.mp3
-#EXTINF:-1,[Web] Radio Suby
-https://icy.unitedradio.it/Suby.mp3
-#EXTINF:-1,[Web] Radio Subasio Collection
-https://icy.unitedradio.it/SubasioCollection.mp3
-#EXTINF:-1,[Web] Radio Subasio Per un'ora d'Amore
-https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
-#EXTINF:-1,Radio Radicale
-https://live.radioradicale.it/live.mp3
-#EXTINF:-1,RDS
-https://stream.rds.radio/audio/rds.stream_aac64/playlist.m3u8
-#EXTINF:-1,Radio 24
-https://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8
-#EXTINF:-1,M DUE O
-https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
-#EXTINF:-1,Radio inBlu 2000
-https://cldwz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8
 
 #EXTINF:-1,[7] LA7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
@@ -450,6 +330,131 @@ https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8?fluxustv.m3
 http://185.202.128.1:1935/Tv6Stream/tv6TV.stream_tlm/playlist.m3u8?fluxustv.m3u8
 
 
-
+#EXTINF:0,Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:0,Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:0,Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:0,Rete 4
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:0,Canale 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:0,Italia 1
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:0,La 7
+https://ok.ru/videoembed/2620066111204
+#EXTINF:0,Tv 8
+https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:0,Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1585746893~exp=1585833293~acl=/i/*~hmac=7aa28aab591fe6ddf8d0480b4f202d3536f6f5b26dedf9d944c35b6320950ca4&mux_audio=true
+#EXTINF:0,Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:0,Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:0,Rai News 24
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:0,Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
+#EXTINF:0,Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:0,Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:0,Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:0,Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:0,Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:0,Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:0,Extra
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:0,Focus
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTINF:0,Iris
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:0,20
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:0,La 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:0,Italia 2
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:0,Top Crime
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:0,Cine 34
+https://ok.ru/videoembed/3291307777740
+#EXTINF:0,Boing
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:0,Cartoonito
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:0,Paramount
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:0,Sky Tg24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:0,Tgcom 24
+https://static3.mediasetplay.mediaset.it/player/index.html?autoplay=true&callSign=KF&appKey=5ad3966b1de1c4000d5cec48&purl=https%3A//www.tgcom24.mediaset.it/video/
+#EXTINF:0,Tv 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:0,Mo Trend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1559845194~exp=1559931594~acl=/*~hmac=877e074ac091df4a9d3406b63474da090678d4eef65c21489d443b94d4de7087&mux_audio=true
+#EXTINF:0,Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?hdnts=st=1564227924~exp=1564314324~acl=/*~hmac=98bf7f8b6e1d65254efde4c3350f77d0e01d778d5e86abffd3ff244df230faad&mux_audio=true
+#EXTINF:0,Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1564228002~exp=1564314402~acl=/*~hmac=6c0b77c0af71417fd823ef483a0d15c72e267308b83fdcb0e1b2228dba9dd703&mux_audio=true
+#EXTINF:0,Dmax
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:0,Food
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?hdnts=st=1586086849~exp=1586173249~acl=/i/*~hmac=49ca8a624a617228910e6a0b491ab25e78ea7ab08c404c6800fc366e15a03146&mux_audio=true
+#EXTINF:0,Si
+https://justnetwork.it/app/iptv/si.php
+#EXTINF:0,Deejay Tv
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:0,Ritalia
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_384x256_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,M2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,Rtl 102.5
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:0,Radio Zeta
+https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+#EXTINF:0,Radio Freccia
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
+#EXTINF:0,Kiss Kiss Tv
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist_w573387836.m3u8
+#EXTINF:0,Norba Tv
+https://flash7.xdevel.com/norbatv/smil:norbatv.smil/chunklist_w482216749_b864000_slita.m3u8
+#EXTINF:0,Radio 24
+https://www.youtube.com/embed/VYyRnJj64fs
+#EXTINF:0,Radio Radio
+https://livestream.com/accounts/11463451/events/3679884/player?width=640&height=360&autoPlay=true&mute=false
+#EXTINF:0,Virgin Tv
+https://static3.mediasetplay.mediaset.it/player/index.html?autoplay=true&callSign=EW&appKey=5d3ad3711de1c4001b3c57bf&purl=https://www.virginradio.it/sezioni/1099/video
+#EXTINF:0,Rmc Tv
+https://static3.mediasetplay.mediaset.it/player/index.html?autoplay=true&callSign=BB&appKey=5e14757f1de1c4001d2e6d7c&purl=https://www.radiomontecarlo.net/sezioni/11995/tv
+#EXTINF:0,Fmitalia
+https://share.xdevel.com/api/?platform=streamsolution&get=player&key=f0d4f51258eaceacd3f832e87f262f7f&ver=5
+#EXTINF:0,Tele A
+http://82.62.190.94/hls/telea/video.m3u8
+#EXTINF:0,Tmn
+https://59d7d6f47d7fc.streamlock.net/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:0,Orler Tv
+https://w1.mediastreaming.it/orlertv/livestream/chunklist_w451288506.m3u8
+#EXTINF:0,Qvc
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:0,Tv Luna
+https://streamlive14.arcapuglia.it:8080/live/teleluna/index.m3u8
+#EXTINF:0,Bella Tv
+https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
+#EXTINF:0,7 Gold
+https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
+#EXTINF:0,Hse 24
+https://5f11919dca3bd.streamlock.net/HSE24/HSE24/playlist.m3u8
+#EXTINF:0,Videolina
+http://livestreaming.videolina.it/live/Videolina/chunklist_w1548194757.m3u8
+#EXTINF:0,Canale 85
+https://streamlive85.arcapuglia.it:8080/live/canale85/index.m3u8
+#EXTINF:0,Italia 7
+http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
 
 
