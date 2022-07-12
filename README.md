@@ -508,3 +508,30 @@ https://sb.top-ix.org/avtv04/streaming/playlist.m3u8
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 #EXTINF:-1 tvg-id="Vuemme.it" tvg-country="IT" tvg-language="Italian" tvg-logo="" group-title="",Vuemme (480p)
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="ITALIA",Azzurra TV Verbano
+https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.esperia.tv/file/2018/10/EsperiaTVwhite.png" group-title="ITALIA",Esperia TV Calabria 
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ImvO2rV.png" group-title="ITALIA",Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.teveretv.it/Images/Icone/logo.png" group-title="ITALIA",Tevere TV Valtiberina
+https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kXDdx0h.png" group-title="ITALIA",Vera TV Marche 
+http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,[37] GM24
+https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
+
+#EXTINF:-1,[65] ALMA TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1,[67] VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pk5flAT.png" group-title="ITALIA",RMK TV Sciacca
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8
