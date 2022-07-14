@@ -27,7 +27,7 @@ http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.esperia.tv/file/2018/10/EsperiaTVwhite.png" group-title="ITALIA",Esperia TV Calabria 
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8
-
+   
 #EXTINF:-1 tvg-id="EsperiaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="",Esperia TV (480p)
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 
