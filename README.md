@@ -118,47 +118,17 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 #EXTINF:0,Tele A
 http://82.62.190.94/hls/telea/video.m3u8
 
-
-
-
-
-#EXTINF:0,Qvc
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-
-#EXTINF:0,7 Gold
-https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
-
-#EXTINF:0,Videolina
-http://livestreaming.videolina.it/live/Videolina/chunklist_w1548194757.m3u8
-
-#EXTINF:0,Canale 85
-https://streamlive85.arcapuglia.it:8080/live/canale85/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ss9X3k2.png" group-title="ITALIA",Videonola Napoli
-https://stream1.aswifi.it/videonola/live/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="ITALIA",RTC Telecalabria
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="ITALIA",Sardegna Uno
-https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VDiISqA.png" group-title="ITALIA",TeleMia Calabria
-http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1BjkEl.png" group-title="ITALIA",TeleTerni
-https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CXbb7ai.jpg" group-title="Canales Italianos", TV2000 | SD
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 
-#EXTINF:0,Italia 7
-http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/1920px-Rai_News_24.svg.png" group-title="News",Rai News 24 (720p)
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="51RadioTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="",51 Radio TV (480p)
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+
+#EXTINF:0,Sky Tg24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ABChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/y5564NI.png" group-title="",AB Channel (768p) [Not 24/7]
 https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="" group-title="",Alto Adige TV (720p)
